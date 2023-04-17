@@ -1,0 +1,8 @@
+{
+    "task1":{"firstNumber":25, "secondNumber":1001},
+    "task2":[2, 6, 4, 1, 3, 1, 5],
+    "task3_2TShirts":[{"size":"S", "quantity":3},{"size":"M", "quantity":5},{"size":"L", "quantity":1},{"size":"XL", "quantity":5},{"size":"XXL", "quantity":4},{"size":"XXXL", "quantity":3}],
+    "task3_2Participants":[{"id":1,"name":"Alex","size":["S","M"]},{"id":2,"name":"Ben","size":["L"]},{"id":3,"name":"Caimon","size":["XL","XXL"]},{"id":4,"name":"Den","size":["M"]},{"id":5,"name":"Ely","size":["M"]},{"id":6,"name":"Franklin","size":["M"]},{"id":7,"name":"George","size":["M"]},{"id":8,"name":"Iona","size":["M"]},{"id":9,"name":"Stephan","size":["M"]},{"id":10,"name":"Oliver","size":["XXXL","XXL"]},{"id":11,"name":"James","size":["L","M"]},{"id":12,"name":"Nick","size":["S"]},{"id":13,"name":"Marcus","size":["XL"]},{"id":14,"name":"Xavier","size":["XXXL"]}],
+    "task4Scene":{"n":3, "m":3},
+    "task4Actors":[{"name":"Zhenya", "position":{"n":0, "m":1}}, {"name":"Phlip", "position":{"n":0, "m":3}}, {"name":"Alex", "position":{"n":1, "m":2}}]
+}
