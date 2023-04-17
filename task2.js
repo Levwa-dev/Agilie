@@ -27,5 +27,3 @@ function taskTwo (arr) {
     }
     return slow
 }
-
-taskTwo(task2)
